@@ -1,0 +1,10 @@
+Terraform variables
+
+1) String
+2) Number
+3) Boolean (bool) 
+4) List(string) , list(number) : color (red, blue, pink), name (ram, sita, geeta) [red, pink]
+5) Map(String) : tag : vm_name = ram1 , vm_owner_name , vm_emailid (a=red , b=pink)
+6) Object : a=red , b=8, c=tira
+7) Tuple = ["red",8080]
+8) Any = any type of variable
